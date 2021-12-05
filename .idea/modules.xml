@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PhonePeMachineCoding/PhonePeMachineCoding.iml" filepath="$PROJECT_DIR$/PhonePeMachineCoding/PhonePeMachineCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programming Practice.iml" filepath="$PROJECT_DIR$/.idea/Programming Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UberMachineCoding/UberMachineCoding.iml" filepath="$PROJECT_DIR$/UberMachineCoding/UberMachineCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UdaanMachineCoding/UdaanMachineCoding.iml" filepath="$PROJECT_DIR$/UdaanMachineCoding/UdaanMachineCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tesco-api-design/tesco-api-design.iml" filepath="$PROJECT_DIR$/tesco-api-design/tesco-api-design.iml" />
+    </modules>
+  </component>
+</project>
